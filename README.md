@@ -1,6 +1,6 @@
-#In this project I have fetched a data from the backend of Mysql and displayed it to the frontend by Reactjs with the help of Nodejs and ExpressJs. As thos is my first #project on the full stack development. 
-#Thank You 
-
+**In this project I have fetched a data from the backend of Mysql and displayed it to the frontend by Reactjs with the help of Nodejs and ExpressJs. As thos is my first project on the full stack development. 
+Thank You 
+**
 
 # Getting Started with Create React App
 
